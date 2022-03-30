@@ -17,7 +17,7 @@ def main():
     os.system("git pull up master")
     os.system("git add .")
     os.system("git commit -m \"Enjoy~\"")
-    os.system("git push")
+    os.system("git push origin master")
 
 if __name__ == "__main__":
     main()

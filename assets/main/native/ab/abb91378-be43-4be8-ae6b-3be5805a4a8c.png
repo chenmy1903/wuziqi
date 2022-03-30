@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='utf-8' ?>
-<Error>
-	<Code>NoSuchKey</Code>
-	<Message>The specified key does not exist.</Message>
-	<Resource>cdn-1258575882.cos.ap-guangzhou.myqcloud.com/gameList/wuZiQi/hhfhdf_1.0.37/web-mobile/assets/main/native/ab/abb91378-be43-4be8-ae6b-3be5805a4a8c.png </Resource>
-	<RequestId>NjI0M2FiMjFfNWIyZjJjMGJfMmNlODdfMzc5YjgyNA==</RequestId>
-	<TraceId>OGVmYzZiMmQzYjA2OWNhODk0NTRkMTBiOWVmMDAxODc0OWRkZjk0ZDM1NmI1M2E2MTRlY2MzZDhmNmI5MWI1OTVmYzc0YmEzZDg5YTVjMDA4YzA3ZWY5ZjQwZTE2ZGU1OTBkOWM3Zjk5NmI0ZmE4M2VjOGIwNDRhMTFkNjU1NjA=</TraceId>
-</Error>
-
